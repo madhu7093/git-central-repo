@@ -1,2 +1,1 @@
-[dev]
-172.31.9.23
+target ansible_host=172.31.9.23
